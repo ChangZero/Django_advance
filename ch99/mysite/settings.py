@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     # 추가
     'bookmark.apps.BookmarkConfig',
     'blog.apps.BlogConfig',
+    'photo.apps.PhotoConfig',
     # 태그 추가
     'taggit.apps.TaggitAppConfig',
     'taggit_templatetags2',
